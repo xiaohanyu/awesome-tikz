@@ -35,6 +35,11 @@
   with pictures drawn by other TeX friends
 - [[https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex][Love heart with LaTeX]]       - Contains lovely code to make a heart by LaTeX/TikZ
 
+** Tools
+
+- [[https://github.com/matlab2tikz/matlab2tikz][matlab2tikz]]      - converts MATLAB®/Octave figures to TikZ/pgfplots figures
+- [[https://github.com/nschloe/matplotlib2tikz][matplotlib2tikz]]  - convert matplotlib figure and spits out a TikZ/PGFplots figure
+
 ** Libraries
 
 From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
