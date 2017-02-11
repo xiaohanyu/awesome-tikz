@@ -116,4 +116,4 @@ From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
 
 ** License
 
-[[https://creativecommons.org/licenses/by/4.0/][http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.svg]]
+[[https://creativecommons.org/licenses/by/4.0/][http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg]]
