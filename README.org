@@ -37,71 +37,71 @@
 
 From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
 
-- [[http://www.ctan.org/pkg/aobs_tikz][aobs_tikz]]        - TikZ styles for creating overlaid pictures in beamer
-- [[http://www.ctan.org/pkg/battleship][battleship]]       - A style file for typesetting Battleship logic puzzles
-- [[http://www.ctan.org/pkg/binarytree][binarytree]]       - Drawing binary trees using TikZ
-- [[http://www.ctan.org/pkg/blochsphere][blochsphere]]      - Draw pseudo-3D diagrams of Bloch spheres
-- [[http://www.ctan.org/pkg/bloques][bloques]]          - Generate control diagrams
-- [[http://www.ctan.org/pkg/blox][blox]]             - Draw block diagrams, using TikZ
-- [[http://www.ctan.org/pkg/bodegraph][bodegraph]]        - Draw Bode, Nyquist and Black plots with gnuplot and TikZ
-- [[http://www.ctan.org/pkg/braids][braids]]           - Draw braid diagrams with PGF/TikZ
-- [[http://www.ctan.org/pkg/celtic][celtic]]           - A TikZ library for drawing celtic knots
-- [[http://www.ctan.org/pkg/circuitikz][circuitikz]]       - Draw electrical networks with TikZ
-- [[http://www.ctan.org/pkg/fast_diagram][fast_diagram]]     - Easy generation of FAST diagrams
-- [[http://www.ctan.org/pkg/flowchart][flowchart]]        - Shapes for drawing flowcharts, using TikZ
-- [[http://www.ctan.org/pkg/forest][forest]]           - Drawing (linguistic) trees
-- [[http://www.ctan.org/pkg/grafcet][grafcet]]          - Draw Grafcet/SFC with TikZ
-- [[http://www.ctan.org/pkg/harveyballs][harveyballs]]      - Create Harvey Balls using TikZ
-- [[http://www.ctan.org/pkg/hf_tikz][hf_tikz]]          - A simple way to highlight formulas and formula parts
-- [[http://www.ctan.org/pkg/hobby][hobby]]            - An implementation of Hobby’s algorithm for PGF/TikZ
-- [[http://www.ctan.org/pkg/karnaugh_map][karnaugh_map]]     - LATEX package for drawing karnaugh maps with up to 6 variables
-- [[http://www.ctan.org/pkg/karnaughmap][karnaughmap]]      - Typeset Karnaugh maps
-- [[http://www.ctan.org/pkg/logicpuzzle][logicpuzzle]]      - Typeset (grid-based) logic puzzles
-- [[http://www.ctan.org/pkg/makeshape][makeshape]]        - Declare new PGF shapes
-- [[http://www.ctan.org/pkg/neuralnetwork][neuralnetwork]]    - Graph-drawing for neural networks
-- [[http://www.ctan.org/pkg/pgf_blur][pgf_blur]]         - PGF/TikZ package for "blurred" shadows
-- [[http://www.ctan.org/pkg/pgf_pie][pgf_pie]]          - Draw pie charts, using PGF
-- [[http://www.ctan.org/pkg/pgf_soroban][pgf_soroban]]      - Create images of the soroban using TikZ/PGF
-- [[http://www.ctan.org/pkg/pgf_spectra][pgf_spectra]]      - Draw continuous or discrete spectra using PGF/TikZ
-- [[http://www.ctan.org/pkg/pgf_umlcd][pgf_umlcd]]        - Some LATEX macros for UML Class Diagrams
-- [[http://www.ctan.org/pkg/pgf_umlsd][pgf_umlsd]]        - Draw UML Sequence Diagrams
-- [[http://www.ctan.org/pkg/pgfgantt][pgfgantt]]         - Draw Gantt charts with TikZ
-- [[http://www.ctan.org/pkg/pgfplots][pgfplots]]         - Loads, rounds, formats and postprocesses numerical tables
-- [[http://www.ctan.org/pkg/prooftrees][prooftrees]]       - Forest-based proof trees (symbolic logic)
-- [[http://www.ctan.org/pkg/pxpgfmark][pxpgfmark]]        - e-pTEX driver for PGF inter-picture connections
-- [[http://www.ctan.org/pkg/reotex][reotex]]           - Draw Reo Channels and Circuits
-- [[http://www.ctan.org/pkg/rulercompass][rulercompass]]     - A TikZ library for straight-edge and compass diagrams
-- [[http://www.ctan.org/pkg/sa_tikz][sa_tikz]]          - TikZ library to draw switching architectures
-- [[http://www.ctan.org/pkg/schemabloc][schemabloc]]       - Draw block diagrams, using TikZ
-- [[http://www.ctan.org/pkg/scsnowman][scsnowman]]        - Snowman variants using TikZ
-- [[http://www.ctan.org/pkg/setdeck][setdeck]]          - Typeset cards for Set
-- [[http://www.ctan.org/pkg/smartdiagram][smartdiagram]]     - Generate diagrams from lists
-- [[http://www.ctan.org/pkg/spath3][spath3]]           - Manipulate “soft paths” in PGF
-- [[http://www.ctan.org/pkg/stanli][stanli]]           - TikZ Library for Structural Analysis
-- [[http://www.ctan.org/pkg/ticollege][ticollege]]        - Graphical representation of keys on a standard scientific calculator
-- [[http://www.ctan.org/pkg/tikz_3dplot][tikz_3dplot]]      - Coordinate transformation styles for 3d plotting in TikZ
-- [[http://www.ctan.org/pkg/tikz_bayesnet][tikz_bayesnet]]    - Draw Bayesian networks, graphical models and directed factor graphs
-- [[http://www.ctan.org/pkg/tikz_cd][tikz_cd]]          - Create commutative diagrams with TikZ
-- [[http://www.ctan.org/pkg/tikz_dependency][tikz_dependency]]  - A library for drawing dependency graphs
-- [[http://www.ctan.org/pkg/tikz_dimline][tikz_dimline]]     - Technical dimension lines using PGF/TikZ
-- [[http://www.ctan.org/pkg/tikz_feynman][tikz_feynman]]     - Feynman diagrams with TikZ
-- [[http://www.ctan.org/pkg/tikz_inet][tikz_inet]]        - Draw interaction nets with TikZ
-- [[http://www.ctan.org/pkg/tikz_opm][tikz_opm]]         - Typeset OPM diagrams
-- [[http://www.ctan.org/pkg/tikz_optics][tikz_optics]]      - A library for drawing optical setups with TikZ
-- [[http://www.ctan.org/pkg/tikz_page][tikz_page]]        - Small macro to help building nice and complex layout materials
-- [[http://www.ctan.org/pkg/tikz_palattice][tikz_palattice]]   - Draw particle accelerator lattices with TikZ
-- [[http://www.ctan.org/pkg/tikz_qtree][tikz_qtree]]       - Use existing qtree syntax for trees in TikZ
-- [[http://www.ctan.org/pkg/tikz_timing][tikz_timing]]      - Easy generation of timing diagrams as TikZ pictures
-- [[http://www.ctan.org/pkg/tikzinclude][tikzinclude]]      - Import TikZ images from colletions
-- [[http://www.ctan.org/pkg/tikzmark][tikzmark]]         - Use TikZ's method of remembering a position on a page
-- [[http://www.ctan.org/pkg/tikzorbital][tikzorbital]]      - Atomic and molecular orbitals using TikZ
-- [[http://www.ctan.org/pkg/tikzpagenodes][tikzpagenodes]]    - A single TikZ node for the whole page
-- [[http://www.ctan.org/pkg/tikzpeople][tikzpeople]]       - Draw people-shaped nodes in TikZ
-- [[http://www.ctan.org/pkg/tikzpfeile][tikzpfeile]]       - Draw arrows using PGF/TikZ
-- [[http://www.ctan.org/pkg/tikzposter][tikzposter]]       - Create scientific posters using TikZ
-- [[http://www.ctan.org/pkg/tikzscale][tikzscale]]        - Resize pictures while respecting text size
-- [[http://www.ctan.org/pkg/tikzsymbols][tikzsymbols]]      - Some symbols created using TikZ
-- [[http://www.ctan.org/pkg/timing_diagrams][timing_diagrams]]  - Draw timing diagrams
-- [[http://www.ctan.org/pkg/tipfr][tipfr]]            - Produces calculator's keys with the help of TikZ
-- [[http://www.ctan.org/pkg/tkz_orm][tkz_orm]]          - Create Object-Role Model (ORM) diagrams
-- [[http://www.ctan.org/pkg/xebaposter][xebaposter]]       - Create beautiful scientific Persian/Latin posters using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz][aobs-tikz]]        - TikZ styles for creating overlaid pictures in beamer
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship][battleship]]       - A style file for typesetting Battleship logic puzzles
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree][binarytree]]       - Drawing binary trees using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere][blochsphere]]      - Draw pseudo-3D diagrams of Bloch spheres
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques][bloques]]          - Generate control diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox][blox]]             - Draw block diagrams, using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph][bodegraph]]        - Draw Bode, Nyquist and Black plots with gnuplot and TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids][braids]]           - Draw braid diagrams with PGF/TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic][celtic]]           - A TikZ library for drawing celtic knots
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz][circuitikz]]       - Draw electrical networks with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram][fast-diagram]]     - Easy generation of FAST diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart][flowchart]]        - Shapes for drawing flowcharts, using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest][forest]]           - Drawing (linguistic) trees
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet][grafcet]]          - Draw Grafcet/SFC with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs][harveyballs]]      - Create Harvey Balls using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz][hf-tikz]]          - A simple way to highlight formulas and formula parts
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby][hobby]]            - An implementation of Hobby’s algorithm for PGF/TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map][karnaugh-map]]     - LATEX package for drawing karnaugh maps with up to 6 variables
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap][karnaughmap]]      - Typeset Karnaugh maps
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle][logicpuzzle]]      - Typeset (grid-based) logic puzzles
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape][makeshape]]        - Declare new PGF shapes
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork][neuralnetwork]]    - Graph-drawing for neural networks
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur][pgf-blur]]         - PGF/TikZ package for "blurred" shadows
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie][pgf-pie]]          - Draw pie charts, using PGF
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban][pgf-soroban]]      - Create images of the soroban using TikZ/PGF
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra][pgf-spectra]]      - Draw continuous or discrete spectra using PGF/TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd][pgf-umlcd]]        - Some LATEX macros for UML Class Diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd][pgf-umlsd]]        - Draw UML Sequence Diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt][pgfgantt]]         - Draw Gantt charts with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots][pgfplots]]         - Loads, rounds, formats and postprocesses numerical tables
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees][prooftrees]]       - Forest-based proof trees (symbolic logic)
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark][pxpgfmark]]        - e-pTEX driver for PGF inter-picture connections
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex][reotex]]           - Draw Reo Channels and Circuits
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass][rulercompass]]     - A TikZ library for straight-edge and compass diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz][sa-tikz]]          - TikZ library to draw switching architectures
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc][schemabloc]]       - Draw block diagrams, using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman][scsnowman]]        - Snowman variants using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck][setdeck]]          - Typeset cards for Set
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram][smartdiagram]]     - Generate diagrams from lists
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3][spath3]]           - Manipulate “soft paths” in PGF
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli][stanli]]           - TikZ Library for Structural Analysis
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege][ticollege]]        - Graphical representation of keys on a standard scientific calculator
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot][tikz-3dplot]]      - Coordinate transformation styles for 3d plotting in TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet][tikz-bayesnet]]    - Draw Bayesian networks, graphical models and directed factor graphs
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd][tikz-cd]]          - Create commutative diagrams with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency][tikz-dependency]]  - A library for drawing dependency graphs
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline][tikz-dimline]]     - Technical dimension lines using PGF/TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman][tikz-feynman]]     - Feynman diagrams with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet][tikz-inet]]        - Draw interaction nets with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm][tikz-opm]]         - Typeset OPM diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics][tikz-optics]]      - A library for drawing optical setups with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page][tikz-page]]        - Small macro to help building nice and complex layout materials
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice][tikz-palattice]]   - Draw particle accelerator lattices with TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree][tikz-qtree]]       - Use existing qtree syntax for trees in TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing][tikz-timing]]      - Easy generation of timing diagrams as TikZ pictures
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude][tikzinclude]]      - Import TikZ images from colletions
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark][tikzmark]]         - Use TikZ's method of remembering a position on a page
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital][tikzorbital]]      - Atomic and molecular orbitals using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes][tikzpagenodes]]    - A single TikZ node for the whole page
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople][tikzpeople]]       - Draw people-shaped nodes in TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile][tikzpfeile]]       - Draw arrows using PGF/TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter][tikzposter]]       - Create scientific posters using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale][tikzscale]]        - Resize pictures while respecting text size
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols][tikzsymbols]]      - Some symbols created using TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams][timing-diagrams]]  - Draw timing diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr][tipfr]]            - Produces calculator's keys with the help of TikZ
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm][tkz-orm]]          - Create Object-Role Model (ORM) diagrams
+- [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter][xebaposter]]       - Create beautiful scientific Persian/Latin posters using TikZ
