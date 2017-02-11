@@ -9,6 +9,7 @@
 
 - [[https://sourceforge.net/projects/pgf/][SourceForge]]  - Code, releases, support and bug reports
 - [[https://www.ctan.org/pkg/pgf][CTAN]]         - Latest version release
+- [[https://sourceforge.net/p/pgf/mailman/pgf-users/][pgf-users]]    - A friendly and relatively active mailing list.
 
 *** PGFPlots
 
