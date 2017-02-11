@@ -1,6 +1,7 @@
 * Awesome TikZ
 
 [[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
+[[https://travis-ci.org/xiaohanyu/awesome-tikz][https://travis-ci.org/xiaohanyu/awesome-tikz.svg?branch=master]]
 
 ** Official Links
 
