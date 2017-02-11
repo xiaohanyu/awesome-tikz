@@ -19,7 +19,7 @@
 - [[http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf][PGF Manual]]       - About 1200 pages, 300 of which contains the core concepts
 - [[http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf][PGFPlots Manual]]  - About 560 pages
 - [[https://www.ctan.org/pkg/visualtikz][VisualTikZ]]       - Visual help for TikZ based on images with minimum text
-- [[https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ#Circles.2C_ellipses][LaTeX/PGF/TikZ]]   - A short tutorial from wikibooks
+- [[https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ][LaTeX/PGF/TikZ]]   - A short tutorial from wikibooks
 - [[http://cremeronline.com/LaTeX/minimaltikz.pdf][MinimalTikZ]]      - A very minimal introduction to TikZ
 
 ** Gallery
