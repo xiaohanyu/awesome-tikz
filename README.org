@@ -2,6 +2,18 @@
 
 [[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
 
+** Official Links
+
+*** PGF/TikZ
+
+- [[https://sourceforge.net/projects/pgf/][SourceForge]]  - Code, releases, support and bug reports
+- [[https://www.ctan.org/pkg/pgf][CTAN]]         - Latest version release
+
+*** PGFPlots
+
+- [[http://pgfplots.sourceforge.net/][SourceForge]]
+- [[https://www.ctan.org/pkg/pgfplots][CTAN]]
+
 ** Libraries
 
 From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
