@@ -113,3 +113,7 @@ From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
 - [[https://www.ctan.org/pkg/tkz-berge][tkz-berge]]        - Macros for drawing graphs of graph theory
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm][tkz-orm]]          - Create Object-Role Model (ORM) diagrams
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter][xebaposter]]       - Create beautiful scientific Persian/Latin posters using TikZ
+
+** License
+
+[[https://creativecommons.org/licenses/by/4.0/][http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.svg]]
