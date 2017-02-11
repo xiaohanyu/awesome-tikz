@@ -22,6 +22,17 @@
 - [[https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ#Circles.2C_ellipses][LaTeX/PGF/TikZ]]   - A short tutorial from wikibooks
 - [[http://cremeronline.com/LaTeX/minimaltikz.pdf][MinimalTikZ]]      - A very minimal introduction to TikZ
 
+** Gallery
+
+- [[http://www.texample.net/tikz/][TeXample]]                    - Gallery of wonderful examples made by TikZ
+- [[https://github.com/walmes/Tikz][walmes/Tikz]]                 - Collection of TikZ art from Prof. Walmes M. Zeviani,
+  contains about 200 TikZ figures, most of which were done to teach statistics
+- [[https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz][MartinThoma/LaTeX-examples]]  - Contains about 350 TikZ examples from Martin
+  Thoma
+- [[https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off][Nice Scientific Pictures]]    - Contains some really nice TikZ examples, together
+  with pictures drawn by other TeX friends
+- [[https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex][Love heart with LaTeX]]       - Contains lovely code to make a heart by LaTeX/TikZ
+
 ** Libraries
 
 From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
