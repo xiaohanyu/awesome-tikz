@@ -105,5 +105,6 @@ From [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/][CTAN]]:
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols][tikzsymbols]]      - Some symbols created using TikZ
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams][timing-diagrams]]  - Draw timing diagrams
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr][tipfr]]            - Produces calculator's keys with the help of TikZ
+- [[https://www.ctan.org/pkg/tkz-berge][tkz-berge]]        - Macros for drawing graphs of graph theory
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm][tkz-orm]]          - Create Object-Role Model (ORM) diagrams
 - [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter][xebaposter]]       - Create beautiful scientific Persian/Latin posters using TikZ
