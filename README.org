@@ -40,8 +40,8 @@
 - [[http://www.tikzedt.org/][tikzedt]]          - A combined WYSIWYG/text editor designed for editing Tikz code
 - [[https://github.com/fhackenberger/ktikz][ktikz]]            - Provides a nice user interface for making pictures using TikZ
 - [[https://sourceforge.net/projects/gratex/][gratex]]           - Visual graph creator for LaTeX (PGF & TikZ)
-- [[https://github.com/matlab2tikz/matlab2tikz][matlab2tikz]]      - converts MATLAB®/Octave figures to TikZ/pgfplots figures
-- [[https://github.com/nschloe/matplotlib2tikz][matplotlib2tikz]]  - convert matplotlib figure and spits out a TikZ/PGFplots figure
+- [[https://github.com/matlab2tikz/matlab2tikz][matlab2tikz]]      - Converts MATLAB®/Octave figures to TikZ/pgfplots figures
+- [[https://github.com/nschloe/matplotlib2tikz][matplotlib2tikz]]  - Convert matplotlib figure and spits out a TikZ/PGFplots figure
 
 ** Libraries
 
