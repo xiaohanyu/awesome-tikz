@@ -34,6 +34,7 @@
 - [[https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off][Nice Scientific Pictures]]    - Contains some really nice TikZ examples, together
   with pictures drawn by other TeX friends
 - [[https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex][Love heart with LaTeX]]       - Contains lovely code to make a heart by LaTeX/TikZ
+- [[https://github.com/PetarV-/Tikz][PetarV-/Tikz]]                 - A collection of publication-ready PGF/TikZ figures by Petar Veličković
 
 ** Tools
 
