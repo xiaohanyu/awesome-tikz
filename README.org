@@ -3,6 +3,14 @@
 [[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
 [[https://travis-ci.org/xiaohanyu/awesome-tikz][https://travis-ci.org/xiaohanyu/awesome-tikz.svg?branch=master]]
 
+TikZ is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike
+other TeX packages, TikZ itself is really huge, its manual contains about 1100+
+pages, 100+ chapters. Tens of other packages, and serveral GUI applications are
+based on TikZ.
+
+This project contains a curated list of awesome TikZ documentations, libraries
+and resources.
+
 ** Contents
 
 - [[#official-links][Official Links]]
