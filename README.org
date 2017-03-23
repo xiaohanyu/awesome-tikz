@@ -13,8 +13,8 @@
 
 *** PGFPlots
 
-- [[http://pgfplots.sourceforge.net/][SourceForge]]
-- [[https://www.ctan.org/pkg/pgfplots][CTAN]]
+- [[http://pgfplots.sourceforge.net/][SourceForge]]  - Code, releases, support and bug reports.
+- [[https://www.ctan.org/pkg/pgfplots][CTAN]]         - Latest version release.
 
 ** Books
 
