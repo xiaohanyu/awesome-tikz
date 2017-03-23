@@ -3,6 +3,16 @@
 [[http://awesome.es][https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg]]
 [[https://travis-ci.org/xiaohanyu/awesome-tikz][https://travis-ci.org/xiaohanyu/awesome-tikz.svg?branch=master]]
 
+** Contents
+
+- [[#official-links][Official Links]]
+  - [[#pgftikz][PGF/TikZ]]
+  - [[#pgfplots][PGFPlots]]
+- [[#books][Books]]
+- [[#gallery][Gallery]]
+- [[#tools][Tools]]
+- [[#libraries][Libraries]]
+
 ** Official Links
 
 *** PGF/TikZ
