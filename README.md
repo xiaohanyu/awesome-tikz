@@ -1,9 +1,9 @@
 Awesome TikZ
 ============
 
-[![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es) [![](https://travis-ci.org/xiaohanyu/awesome-tikz.svg?branch=master)](https://travis-ci.org/xiaohanyu/awesome-tikz)
+[![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
 
-TikZ is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
+[TikZ](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
 
 This project contains a curated list of awesome TikZ documentations, libraries and resources.
 
@@ -17,6 +17,8 @@ Contents
 -   [Gallery](#gallery)
 -   [Tools](#tools)
 -   [Libraries](#libraries)
+-   [Community](#community)
+-   [Videos](#videos)
 
 Official Links
 --------------
@@ -25,7 +27,6 @@ Official Links
 
 -   [SourceForge](https://sourceforge.net/projects/pgf/) - Code, releases, support and bug reports.
 -   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
--   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
 ### PGFPlots
 
@@ -134,6 +135,21 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - Macros for drawing graphs of graph theory.
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
+
+Videos
+-----
+
+-   [A TikZ tutorial: Generating graphics in the spirit of TeX](https://www.youtube.com/watch?v=hYjsJVXBlvM)
+-   [Creating Flowcharts with TikZ (LaTeX)](https://www.youtube.com/watch?v=LoBC8zIB-3k)
+-   [Creating Circuit Diagrams for LaTeX Documents Using Circuitikz](https://www.youtube.com/watch?v=WRTELZP1l0Y)
+-   [Creating Mind Maps Using TikZ](https://www.youtube.com/watch?v=V9vQ118o2kk)
+-   [Graphics with PGF and TikZ](https://www.youtube.com/watch?v=BaHuvXmTPwE&t=1268s)
+
+Community
+---------
+
+-   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
+-   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
 License
 -------
