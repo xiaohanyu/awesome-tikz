@@ -90,6 +90,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
+-   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
