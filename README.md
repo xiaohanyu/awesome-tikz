@@ -82,6 +82,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
+-   [graph35](https://ctan.org/tex-archive/graphics/graph35) – Draw keys and screen items of several Casio calculators.
 -   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
