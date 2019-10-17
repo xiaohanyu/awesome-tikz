@@ -55,7 +55,6 @@ Gallery
 - [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
 - [Neural-Networks-and-Deep-Learning-LaTex-Tikz](https://github.com/LXTaven/Neural-Networks-and-Deep-Learning-LaTex-Tikz) - The tikz figures for the book, Neural Networks and Deep Learning.
 - [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
-- []
 
 
 Tools
