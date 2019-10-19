@@ -52,9 +52,9 @@ Gallery
 -   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
 -   [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 -   [alemelis/tikz_drawings](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
-- [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
-- [Neural-Networks-and-Deep-Learning-LaTex-Tikz](https://github.com/LXTaven/Neural-Networks-and-Deep-Learning-LaTex-Tikz) - The tikz figures for the book, Neural Networks and Deep Learning.
-- [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+-   [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+-   [Neural-Networks-and-Deep-Learning-LaTex-Tikz](https://github.com/LXTaven/Neural-Networks-and-Deep-Learning-LaTex-Tikz) - The tikz figures for the book, Neural Networks and Deep Learning.
+-   [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 
 
 Tools
@@ -67,7 +67,7 @@ Tools
 -   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 -   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 -   [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-- [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+-   [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 
 Libraries
 ---------
