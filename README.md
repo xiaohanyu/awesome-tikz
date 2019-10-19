@@ -1,9 +1,9 @@
-Awesome TikZ
+Awesome Ti*k*Z
 ============
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
 
-[TikZ](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
+[Ti*k*Z](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
 
 This project contains a curated list of awesome TikZ documentations, libraries and resources.
 
@@ -25,7 +25,7 @@ Official Links
 
 ### PGF/TikZ
 
--   [SourceForge](https://sourceforge.net/projects/pgf/) - Code, releases, support and bug reports.
+-   [SourceForge](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
 -   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
