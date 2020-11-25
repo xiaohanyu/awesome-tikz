@@ -69,6 +69,7 @@ Tools
 -   [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 -   [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 -   [sane_tikz](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
+-   [quiver](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
 
 Libraries
 ---------
