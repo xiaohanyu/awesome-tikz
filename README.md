@@ -70,6 +70,7 @@ Tools
 -   [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 -   [sane_tikz](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 -   [quiver](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+-   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
 
 Libraries
 ---------
