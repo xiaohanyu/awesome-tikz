@@ -55,7 +55,7 @@ Gallery
 -   [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
 -   [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 -   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
-
+-   [OpenTikZ](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
 Tools
 -----
