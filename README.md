@@ -167,4 +167,4 @@ Community
 License
 -------
 
-[![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)](https://creativecommons.org/licenses/by/4.0/)
+CC-BY-4.0
